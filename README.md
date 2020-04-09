@@ -1,6 +1,6 @@
 # ESMValTool tutorial
 
-This is a repository to find the tutorial of [ESMValTool](https://www.esmvaltool.org/).
+This is a repository to find the tutorial of [ESMValTool](https://www.esmvaltool.org/). The tutorial is a set of lessons that together teach basic skills needed to work with ESMValTool in climate-related domains.
 
 ## What is ESMValTool
 
