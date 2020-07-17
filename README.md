@@ -8,5 +8,5 @@ The Earth System Model Evaluation Tool (ESMValTool) is a community diagnostics a
 
 ## Tutorial links
 
-* Repository: <https://github.com/ESMValGroup/tutorial>
-* Site: <https://esmvalgroup.github.io/tutorial/>
+* Repository: <https://github.com/ESMValGroup/ESMValTool_Tutorial>
+* Site: <https://esmvalgroup.github.io/ESMValTool_Tutorial/>
